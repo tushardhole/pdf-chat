@@ -1,6 +1,8 @@
 Local PDF RAG Application
 =========================
 
+![Application Previwe](images/application_preview.png)
+
 Overview
 --------
 This project is a fully local, privacy‑friendly PDF Question‑Answering (RAG) application.  
